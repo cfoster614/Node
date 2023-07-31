@@ -1,4 +1,14 @@
-[submodule "Node"]
-	path = Node
+[submodule "Async_Await"]
+	path = Async_Await
+	url = git@github.com:cfoster614/Node.git
+	branch = main
+
+[submodule "Promises"]
+	path = Promises
+	url = git@github.com:cfoster614/Node.git
+	branch = main
+
+[submodule "Node_Intro"]
+	path = Node_Intro
 	url = git@github.com:cfoster614/Node.git
 	branch = main
