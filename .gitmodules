@@ -12,3 +12,13 @@
 	path = Node_Intro
 	url = git@github.com:cfoster614/Node.git
 	branch = main
+
+[submodule "Node_Markov"]
+	path = Node_Markov
+	url = git@github.com:cfoster614/Node.git
+	branch = main
+
+[submodule "Stack_Queues"]
+	path = Stack_Queues
+	url = git@github.com:cfoster614/Node.git
+	branch = main
